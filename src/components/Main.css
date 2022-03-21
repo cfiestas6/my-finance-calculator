@@ -1,0 +1,10 @@
+.main {
+    margin: 2.5rem 2.813rem 0;
+    text-align: center;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    row-gap: 2.9rem;
+    padding: 0 6rem;
+}

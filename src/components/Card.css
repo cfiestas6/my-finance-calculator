@@ -1,0 +1,106 @@
+* {
+    font-family: 'Roboto Mono', monospace;
+}
+h2 {
+    font-size: 1.5rem;
+    font-weight: 650;
+}
+.card-header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /*display: grid;*/
+    /*grid-template-columns: auto 35px;*/
+    background-color: var(--light-brown);
+    color: var(--dark-blue);
+    margin: -1px;
+    z-index: 1;
+}
+.card-header:hover {
+    background-color: var(--brown);
+    color: var(--dark-blue); 
+       
+}
+.card-header-click {
+    background-color: var(--dark-blue) !important;
+    color: var(--light-brown) !important;   
+}
+.flex-arrow {
+    align-self: flex-end;
+    position: absolute;
+}
+.flex-text{
+    padding: 0.5rem 2.5rem; 
+}
+.Card {
+    width: 40%;
+    flex-basis: 100%;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+    border: solid 1px var(--dark-blue);
+    border-radius: 2px;
+
+}
+.calculate-btn {
+    color: var(--dark-blue)!important;
+    padding: 0.25rem 1.5rem;
+    margin: 00.25rem 0;  
+}
+.calculate-btn:hover {
+    color: var(--light-brown)!important;
+    background-color: #181D31;
+}
+.title-header {
+    width: 120%;
+    display: flex;
+    justify-content: flex-end; 
+}
+.grid-4 {
+    grid-column: 1/2;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 0.8rem;
+    text-align: center;
+    width: 90%;
+}
+.grid-1 {
+    grid-column: 2/2;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    
+}
+.form-control {
+    padding: 0.99rem 2.2rem;
+    border: none;
+    background-color: var(--light-brown);
+    align-items: center;
+}
+.input-group {
+    border: 1px solid var(--dark-blue);
+    margin: 0.45rem 0;
+    border-radius: 3px;
+}
+.form-control input{
+    border: none;
+}
+.results { 
+    text-align: center;
+    margin: 5px auto;
+    font-size: 1.3rem;
+    font-weight: 550;
+}
+.results p{
+    color: var(--dark-blue);
+    font-family: 'Roboto Mono', monospace;
+    margin: 0;
+    border: solid 1px var(--dark-blue);
+    border-radius: 3px;
+    padding: 5px;
+    display: block; 
+}
+.input-group-text {
+    color: var(--dark-blue);
+    background-color: var(--light-brown);
+}
