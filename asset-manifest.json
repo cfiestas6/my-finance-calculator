@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/my-finance-calculator/static/css/main.34e79b43.css",
+    "main.css": "/my-finance-calculator/static/css/main.35fd7d46.css",
     "main.js": "/my-finance-calculator/static/js/main.43229fec.js",
     "index.html": "/my-finance-calculator/index.html",
-    "main.34e79b43.css.map": "/my-finance-calculator/static/css/main.34e79b43.css.map",
+    "main.35fd7d46.css.map": "/my-finance-calculator/static/css/main.35fd7d46.css.map",
     "main.43229fec.js.map": "/my-finance-calculator/static/js/main.43229fec.js.map"
   },
   "entrypoints": [
-    "static/css/main.34e79b43.css",
+    "static/css/main.35fd7d46.css",
     "static/js/main.43229fec.js"
   ]
 }
