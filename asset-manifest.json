@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-finance-calculator/static/css/main.34e79b43.css",
+    "main.js": "/my-finance-calculator/static/js/main.ee60fee4.js",
+    "index.html": "/my-finance-calculator/index.html",
+    "main.34e79b43.css.map": "/my-finance-calculator/static/css/main.34e79b43.css.map",
+    "main.ee60fee4.js.map": "/my-finance-calculator/static/js/main.ee60fee4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34e79b43.css",
+    "static/js/main.ee60fee4.js"
+  ]
+}
