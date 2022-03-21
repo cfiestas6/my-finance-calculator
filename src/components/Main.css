@@ -8,3 +8,13 @@
     row-gap: 2.9rem;
     padding: 0 6rem;
 }
+@media (max-width: 600px) {
+    .main {
+        padding: 0 1rem;
+    }
+}
+@media (max-width: 450px) {
+    .main {
+        padding: 0;
+    }
+}

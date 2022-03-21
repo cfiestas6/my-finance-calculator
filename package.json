@@ -1,7 +1,7 @@
 {
-  "homepage":"https://cfiestas.github.io/my-finance-calculator",
   "name": "project",
   "version": "0.1.0",
+  "homepage": "https://cfiestas6.github.io/my-finance-calculator",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.8.2",

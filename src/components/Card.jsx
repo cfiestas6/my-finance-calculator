@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import data from "../utils/data";
 import { 
     rule72,
     compoundInterest,
@@ -68,7 +67,9 @@ function Card(props){
             case 6:
                 setResult(profit(i1, i2, i3, i4));
                 break;
-        }
+            default:
+                break;
+        } 
     }
      
     return (
