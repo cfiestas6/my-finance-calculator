@@ -10,11 +10,11 @@
 }
 @media (max-width: 600px) {
     .main {
-        padding: 0 1rem;
+        padding: 0 1rem !important;
     }
 }
 @media (max-width: 450px) {
     .main {
-        padding: 0;
+        padding: 0 !important;
     }
 }
