@@ -57,7 +57,7 @@ const data = [{
     inputs: [{
             key: 1,
             name: "i1",
-            title: "Commision (%) :"
+            title: "Interest rate (%) :"
             }, {
             key: 2,
             name: "i2",
